@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Task4JavaAndroid</string>
+    <string name="title_activity_2">Activity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="number1_hint">Number 1</string>
+    <string name="number2_hint">Number 2</string>
+    <string name="add_button_text">Add</string>
+    <string name="sum_text">Sum = </string>
+    <string name="alert_title">Confirm Close</string>
+    <string name="alert_message">Are you sure you want to close the app?</string>
+    <string name="alert_positive_button_text">Yes</string>
+    <string name="alert_negative_button_text">No</string>
+    <string name="addition_successful">Addition successful</string>
+
+</resources>
